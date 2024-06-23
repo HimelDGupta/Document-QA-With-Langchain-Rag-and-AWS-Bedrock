@@ -59,6 +59,8 @@ This project implements a Streamlit application that allows users to chat with P
 
 5. Click on either "Claude Output" or "Llama2 Output" to get answers based on the respective AI models.
 
+   ![Streamlit Deployment](Screenshot 2024-06-23 005003.png)
+
 ## Project Structure
 
 - `app.py`: Main application file containing the Streamlit interface and core functionality.
