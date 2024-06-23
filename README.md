@@ -10,6 +10,8 @@ This project implements a Streamlit application that allows users to chat with P
 - Question answering capability using AWS Bedrock's Claude and Llama 2 models
 - Interactive Streamlit interface for easy user interaction
 
+![Streamlit Deployment](Screenshot 2024-06-23 005003.png)
+
 ## Prerequisites
 
 - Python 3.12
@@ -59,7 +61,7 @@ This project implements a Streamlit application that allows users to chat with P
 
 5. Click on either "Claude Output" or "Llama2 Output" to get answers based on the respective AI models.
 
-   ![Streamlit Deployment](Screenshot 2024-06-23 005003.png)
+   
 
 ## Project Structure
 
