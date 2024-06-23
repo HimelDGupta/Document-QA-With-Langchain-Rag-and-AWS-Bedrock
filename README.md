@@ -12,7 +12,7 @@ This project implements a Streamlit application that allows users to chat with P
 
 ## Prerequisites
 
-- Python 3.7+
+- Python 3.12
 - AWS account with access to Bedrock services
 - AWS CLI configured with appropriate credentials
 
@@ -20,7 +20,7 @@ This project implements a Streamlit application that allows users to chat with P
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/chat-with-pdf-bedrock.git
+   git clone https://github.com/HimelDGupta/Document-QA-With-Langchain-Rag-and-AWS-Bedrock.git
    cd chat-with-pdf-bedrock
    ```
 
@@ -77,7 +77,7 @@ Contributions to this project are welcome. Please fork the repository and submit
 
 ## License
 
-[Specify your license here, e.g., MIT License]
+[MIT]
 
 ## Disclaimer
 
